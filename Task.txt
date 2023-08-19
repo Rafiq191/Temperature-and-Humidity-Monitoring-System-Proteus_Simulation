@@ -1,0 +1,9 @@
+Assignment 1: Arduino Based Project
+
+Topic: Temperature and Humidity Monitoring System
+
+Instructions:
+Design an Arduino-based temperature and humidity monitoring system using a DHT11 sensor. The system should read the temperature and humidity values from the sensor and display them on a 16x2 LCD screen. Additionally, implement a threshold-based alert mechanism that displays "ALERT!" on the LCD screen when the temperature exceeds a certain value (e.g., 30°C).
+
+Expected Result:
+The simulated Arduino should continuously read temperature and humidity values from the DHT11 sensor and display them on the LCD screen. When the temperature exceeds 30°C, the LCD should display "ALERT!".
